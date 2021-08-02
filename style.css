@@ -1,0 +1,462 @@
+
+body{
+
+
+  font-family:  'Montserrat';
+
+}
+
+
+#title {
+
+background-color: #022138;
+color:#f9f3f3;
+
+
+
+
+}
+h1{
+
+font-family: 'Montserrat', sans-serif;
+font-size: 3.6rem;
+line-height: 1.5;
+color:#f9f3f3;
+
+}
+
+.hh2 {
+
+font-family: 'Itim', cursive;
+font-size: 3.5rem;
+line-height: 1.5;
+font-weight: bold;
+
+
+
+
+}
+
+
+p {
+  color: # 8f8f8f;
+}
+
+
+.container-fluid {
+
+
+
+}
+/* nav bar*/
+.navii{
+
+
+}
+
+.navbar-brand {
+font-family: 'Lobster', cursive;
+font-size: 3.5rem;
+font-weight: bold;
+
+}
+.nav-item {
+
+padding: 0 18px;
+}
+
+
+
+.nav-link {
+  font-size: 1.25rem;
+}
+/*button*/
+
+.buttonn { background-color: #181450;
+
+}
+
+.d-button {
+  background-color: #181450;
+margin: 5% 3% 5% 0;
+}
+
+
+/*title-image*/
+
+.title-image{
+
+width:150%;
+
+position: relative;
+
+border:10rem;
+right:  10rem;
+
+}
+.cft{
+
+  padding: 0.5% 1%;
+
+
+}
+
+
+@media (max-width : 1028px) {
+
+.title-image {
+  position: static;
+  transform: rotate(0);
+
+}
+
+}
+
+
+#feature-section {
+padding:5% 2%;
+background-color: #E7E6E6;
+
+position: relative;
+z-index: 1;
+
+
+}
+#feature-section h1 {
+
+  font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    line-height: 1;
+  padding:2% 9%;
+  color:  #17202A;
+
+
+
+}
+
+
+
+.feature-box {
+
+  text-align: center;
+
+}
+/*testemonials*/
+
+#testemonials {
+
+  text-align: center;
+color:  #fff;
+
+
+background-color:#00adb5;
+}
+
+.testemonials-image  {
+width: 100%;
+height: 120%;
+
+
+}
+.carousel-item {
+
+
+
+}
+.lines {
+  padding:17% 2%;
+
+
+}
+#press {
+  text-align: center;
+  background-color:#00adb5;
+ padding-bottom:  3%;
+}
+
+
+.press-img {
+width:15%;
+margin: 20px 20px 50px;
+
+}
+
+
+
+
+#pricing {
+  padding:7% 15%;
+
+
+}
+.card {
+padding: 5%;
+
+}
+.col{
+  padding: 5%;
+}
+
+
+/*offers */
+
+
+#others {
+
+
+background-color: #5A415F;
+  padding:7% 2%;
+
+}
+
+
+#others img{
+
+  image-resolution: 1000dpi;
+  width: 20rem;
+  height: 17.5rem;
+  padding:4% 9%;
+
+
+}
+#others img:hover{
+  border: 1px solid #76448A;
+}
+#others h1 {
+
+
+font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  line-height: 1;
+padding:2% 9%;
+
+
+}
+#others h3 {
+
+font-family: 'Noto Sans JP', sans-serif;
+
+font-size: 1rem;
+color: white;
+text-align: center;
+font-weight: 5rem;
+
+padding:2% 9%;
+margin-right: auto;
+
+
+}
+
+
+/*whats section*/
+#what-do-we-offer {
+
+
+  padding:7% 2%;
+}
+
+#what-do-we-offer h3 {
+
+font-family: 'Noto Sans JP', sans-serif;
+
+font-size: 1rem;
+font-weight: 120%;
+
+}
+#what-do-we-offer h1 {
+
+  color :black;
+
+font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  line-height: 1;
+padding:2% 9%;
+
+}
+#what-do-we-offer img {
+
+image-resolution: 1000dpi;
+width: 15rem;
+height: 10rem;
+padding:4% 9%;
+}
+
+
+#what {
+
+  padding:7% 15%;
+background-color:#022138;
+text-align:center;
+color: #fff;
+  background-image: url("imagepro\images (6).jpg");
+
+}
+
+
+
+
+#about  {
+
+  background-color: #022138;
+  color:#f9f3f3;
+
+  max-width: 100%;
+  height: 500px;
+  background-position: center; /* Center the image */
+
+  background-size: cover;
+
+
+}
+
+.centerr{
+
+text-align:  center;
+
+}
+.sp {
+  font-family: 'Lora', serif;
+  text-align: left;
+  color: #fff;
+  padding: 5% 8%
+
+
+
+}
+
+#about img  {
+width: 150px;
+  border: 1px solid #212F3C}
+
+
+#about img:hover  {
+}
+
+
+
+
+
+
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+.search-text {
+   padding-bottom: 60px;
+}
+
+.search-text .input-search {
+	height: 45px;
+	width: 40%;
+	padding-left: 20px;
+    color: #333;
+}
+
+.search-text .btn-search {
+    background: #545454;
+    border: none;
+	color: #FFF;
+	height: 45px;
+    width: 80px;
+}
+
+.search-text h4 {
+    color: #888582;
+    font-weight: 700;
+}
+
+footer {
+	background-color: #222222;
+    padding: 60px 0px;
+}
+
+footer ul{
+    list-style: none;
+    margin: 0 auto;
+    display: inline-block;
+    padding-top: 50px;
+}
+
+footer ul li {
+    float: left;
+}
+
+footer ul li a{
+	color: #b1aca1;
+    padding: 20px;
+}
+
+footer ul li a:hover {
+	color: #7dabdb;
+	text-decoration: none;
+}
+
+.footer-top {
+	padding-bottom: 50px;
+}
+
+.footer-top .fa {
+    font-size: 8px;
+    color: #FFF;
+    padding-right: 10px;
+}
+
+.footer-top a {
+    color: #FFF;
+    background: #333333;
+    padding: 10px;
+}
+
+.footer-top .col-lg-2:hover .fa,
+.footer-top .col-lg-2:hover a{
+    color: #7dabdb;
+	text-decoration: none;
+}
+
+.copyright {
+    background-color: #f0f0f0;
+}
+
+.copyright p {
+	font-size: 12px;
+	padding: 15px 0 10px 0;
+}
+
+#top {
+    color: #fff;
+    background: #7dabdb;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 40px;
+    height: 40px;
+    width: 40px;
+    right: 30px;
+    position: fixed;
+    border-radius: 3px;
+    text-align: center;
+    bottom: 350px;
+}
+
+/*  Footer 3 */
+.footer-top3 .fa {
+    background: #333333;
+    color: #FFF;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    font-size: 14px;
+    margin-right: 5px;
+}
+
+.footer-top3 .fa:hover {
+    color: #FFF;
+	background: #7dabdb;
+    transition: all 2s ease-in-out;
+}
+
+.footer-top3 a {
+    color: #FFF;
+    text-decoration: none;
+}
+/*  Footer  End */
